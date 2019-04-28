@@ -1,1 +1,0 @@
-﻿﻿﻿#Regular Expression|Regex |description ||----|-----||[0-9]*| match 0 or more numbers|  #Package re in Pythonre.sub(regex, replacement, original\_string): replace occurrence of regex in original\_string

@@ -1,1 +1,0 @@
-﻿﻿﻿﻿﻿﻿# Linux shell command## shell variables:  define and use and delete the variable     my_variable = "this is my variable"    # print my variable    echo${my_variable}    #delete variable    unset variable
